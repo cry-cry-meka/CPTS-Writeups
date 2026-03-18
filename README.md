@@ -1,6 +1,6 @@
 # CPTS Path Writeups
 
-This repository contains my notes and writeups while studying for the CPTS penetration tester path.
+This repository contains my notes and writeups while studying for the CPTS / penetration tester path.
 
 The goal of this repo is to document what I learn, the mistakes I made, keep track of commands, and build a structured knowledge base.
 

@@ -4,7 +4,7 @@ This repository contains my notes and writeups while studying for the CPTS / pen
 
 The goal of this repo is to document what I learn, the mistakes I made, keep track of commands, and build a structured knowledge base.
 
-> **Note:** I won't explain simple modules like:
+> **Note:** I won't be explaining simple modules like:
 > 1. Penetration Testing Process
 > 2. Getting Started
 > 3. Network Enumeration with Nmap

@@ -17,7 +17,7 @@ The goal of this repo is to document what I learn, the mistakes I made, keep tra
 
 | Module | Topic |
 |------|------|
-| 1  | [Information Gathering - Footprinting](CPTS-Path/Information-Gathering-Footprinting/README.md) |
+| 1  | [Information Gathering - Footprinting](CPTS-PATH/Information-Gathering-Footprinting/README.md) |
 | 2 | [Information Gathering - Web Edition](CPTS-Path/Information-Gathering-Web) |
 | 3 | [File Transfers](CPTS-Path/File-Transfers) |
 | 4 | [Shells & Payloads](CPTS-Path/Shells-Payloads)|

@@ -465,8 +465,8 @@ From a job post like this, we can see, for example, which programming languages 
 
 | Protocol |                    Links                             |
 |------|----------------------------------------------------------|
-| 1    | [FTP](CPTS-PATH/Information-Gathering-Footprinting/ftp.md) |
-| 2    | [SMB](CPTS-PATH/Information-Gathering-Footprinting/smb.md) |
+| 1    | [FTP](CPTS-Writeups/CPTS-PATH/Information-Gathering-Footprinting/ftp.md) |
+| 2    | [SMB](CPTS-Writeups/CPTS-PATH/Information-Gathering-Footprinting/smb.md) |
 | 3    | [NFS]()                                                    | 
 | 4    | [DNS]()                                                    |
 | 5    | [SMTP]()                                                   |

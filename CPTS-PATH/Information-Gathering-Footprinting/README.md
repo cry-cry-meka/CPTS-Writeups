@@ -465,14 +465,14 @@ From a job post like this, we can see, for example, which programming languages 
 
 | Protocol |                    Links                             |
 |------|----------------------------------------------------------|
-| 1  | [FTP](CPTS-Writeups/CPTS-PATH/Information-Gathering-Footprinting/ftp.md) |
-| 2  | [SMB](CPTS-Writeups/CPTS-PATH/Information-Gathering-Footprinting/smb.md) |
-| 3  | [NFS]()                                                    | 
-| 4  | [DNS]()                                                    |
-| 5  | [SMTP]()                                                   |
-| 6  | [IMAP / POP3]()                                            |
-| 7  | [SNMP]()                                                   | 
-| 8  | [MySQL]()                                                  | 
-| 9  | [MSSQL]()                                                  |
-| 10 | [Oracle TNS]()                                             |
-| 11 | [IPMI]()                                                   |
+| 1    | [FTP](CPTS-PATH/Information-Gathering-Footprinting/ftp.md) |
+| 2    | [SMB](CPTS-PATH/Information-Gathering-Footprinting/smb.md) |
+| 3    | [NFS]()                                                    | 
+| 4    | [DNS]()                                                    |
+| 5    | [SMTP]()                                                   |
+| 6    | [IMAP / POP3]()                                            |
+| 7    | [SNMP]()                                                   | 
+| 8    | [MySQL]()                                                  | 
+| 9    | [MSSQL]()                                                  |
+| 10   | [Oracle TNS]()                                             |
+| 11   | [IPMI]()                                                   |
